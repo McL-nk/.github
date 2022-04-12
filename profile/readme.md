@@ -9,4 +9,3 @@ Mcllink is a free/paid service for connecting your minecraft server with other s
 ## Organization
 
 This is an organization for many of the internal libraries we use, open source or not.  
-A few of these are meant for public use so they will get support, and others not so much.
