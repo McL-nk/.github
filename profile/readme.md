@@ -10,7 +10,7 @@ Mclink is a free/paid service for connecting your minecraft server with other se
 
 ## Organization
 
-This is an organization for many of the internal libraries we use, open source or not.  
+This is where we host our internal services and our public resources 
 
 
           
