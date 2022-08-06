@@ -6,11 +6,11 @@
 
 ---
 
-Mclink is a free/paid service for connecting your minecraft server with other services for extra utility
+Mclink is a free service for connecting your minecraft server with other services for extra utility
 
 ## Organization
 
-This is where we host our internal services and our public resources 
+This is where we host the code for our internal services and our public resources 
 
 
           
