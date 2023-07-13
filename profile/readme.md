@@ -6,7 +6,7 @@
 
 ---
 
-Mclink is a free service for connecting your minecraft server with other services for extra utility
+# Mclink is a bot and plugin which aims to make monitoring and communicating with your minecraft server from discord easy!
 
 ## Organization
 
