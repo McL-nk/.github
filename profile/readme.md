@@ -8,10 +8,16 @@
 
 # Mclink is a bot and plugin which aims to make monitoring and communicating with your minecraft server from discord easy!
 
-## Organization
+## Project information
 
-This is where we host the code for our internal services and our public resources 
+heres a quick list of the technologies we use here
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,go,js,ts,vue,nuxtjs,mongodb,java" />
+  </a>
+</p>
 
 
-          
-          
+
+       
