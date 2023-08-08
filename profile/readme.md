@@ -19,7 +19,7 @@ heres a quick list of the technologies we use here
 </p>
 
 ### Pinger:
-Our **Pinger** (the service which pings your server to get its status) was written in **Go** with speed and reliability in mind to ensure minimal downtime to keep your servers status as up to date as possible in all of your monitoring methods
+Our **Pinger** is written in **Go** with performance and reliability in mind utilizing multithreading to ensure we can keep your status channels and message as up to date as possible with no downtime
 
 
 
