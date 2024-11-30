@@ -6,6 +6,8 @@
 
 ---
 
+# Abandoned/Shut down, repos made public for display purposes
+
 # Mclink is a bot and plugin which aims to make monitoring and communicating with your minecraft server from discord easy!
 
 ## Project information
